@@ -6,9 +6,9 @@
 
 ## Ferramentas utilizadas:
 
-- HTML
-- CSS
-- Flex-box
+*HTML
+*CSS
+*Flex-box
 
 ## Feito por:
 
